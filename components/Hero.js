@@ -15,12 +15,12 @@ const Hero = () => {
           Prod MBA 2.0
         </h1>
         <p className="text-lg opacity-80 leading-relaxed">
-          I&apos;m taking a break from running Prod MBA to build 12 startups in 12 months.<br /><br/> I&apos;ll be sharing what I learn in a new playbook to help you build & launch successful AI & SaaS products in under 30 days.
-          <br /><br />Want to get a weekly, actionable email on how to build product in 2024?
+          I&apos;m taking a break from running Prod MBA to build 12 startups in 12 months.<br /><br/> I&apos;ll be sharing what I learn in a new bootcamp to help <i>you</i> build & launch successful AI SaaS products in under 30 days.
+          <br /><br />Want to get 1 weekly, actionable playbook on how to <i>really</i> build products in 2024?
         </p>
         <ButtonExternal 
         href="https://hlatham.substack.com"
-        buttonText={`Get Weekly Tips`}
+        buttonText={`Get Weekly Product Playbook`}
       />
 
       </div>
